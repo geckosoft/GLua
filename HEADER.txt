@@ -1,0 +1,11 @@
+#region Copyright & License Information
+/*
+ * Copyright 2010 The GLua Developers (see AUTHORS)
+ * 
+ * This file is part of GLua, which is free software. It is made 
+ * available to you under the terms of version 3 of the GNU Lesser 
+ * 
+General Public License as published by the Free Software 
+ * Foundation. For more information, see COPYING and COPYING.LESSER
+ */
+#endregion

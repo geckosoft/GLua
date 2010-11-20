@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLuaOLD", "GLuaOLD\GLuaOLD.csproj", "{0124A623-7AEE-4BDD-B823-27C1523BADAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLua", "Geckosoft.GLua\GLua.csproj", "{799A834F-1332-48D9-B42F-059EC7F18C89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{21D1A9B8-F3C3-43D2-ACC5-D24BF224CAC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1", "Test1\Test1.csproj", "{CA985AE4-7963-4198-BD71-CF38F3ED21DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0124A623-7AEE-4BDD-B823-27C1523BADAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0124A623-7AEE-4BDD-B823-27C1523BADAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0124A623-7AEE-4BDD-B823-27C1523BADAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0124A623-7AEE-4BDD-B823-27C1523BADAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799A834F-1332-48D9-B42F-059EC7F18C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799A834F-1332-48D9-B42F-059EC7F18C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799A834F-1332-48D9-B42F-059EC7F18C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799A834F-1332-48D9-B42F-059EC7F18C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA985AE4-7963-4198-BD71-CF38F3ED21DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA985AE4-7963-4198-BD71-CF38F3ED21DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA985AE4-7963-4198-BD71-CF38F3ED21DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA985AE4-7963-4198-BD71-CF38F3ED21DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CA985AE4-7963-4198-BD71-CF38F3ED21DC} = {21D1A9B8-F3C3-43D2-ACC5-D24BF224CAC2}
+	EndGlobalSection
+EndGlobal
